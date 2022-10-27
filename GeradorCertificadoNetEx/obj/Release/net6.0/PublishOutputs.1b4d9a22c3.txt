@@ -1,0 +1,16 @@
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\GeradorCertificadoNetEx.exe
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\GeradorCertificadoNetEx.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\GeradorCertificadoNetEx.deps.json
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\GeradorCertificadoNetEx.runtimeconfig.json
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\GeradorCertificadoNetEx.pdb
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\ClosedXML.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\DocumentFormat.OpenXml.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\ExcelNumberFormat.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\iTextSharp.LGPLv2.Core.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\Microsoft.Win32.SystemEvents.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\BouncyCastle.Crypto.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\System.Drawing.Common.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\System.IO.Packaging.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\DistGeradorCeritificadoNetEx\runtimes\win\lib\net6.0\System.Drawing.Common.dll

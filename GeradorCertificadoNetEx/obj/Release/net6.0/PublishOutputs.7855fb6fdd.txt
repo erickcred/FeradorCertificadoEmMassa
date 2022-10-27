@@ -1,0 +1,16 @@
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\GeradorCertificadoNetEx.exe
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\GeradorCertificadoNetEx.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\GeradorCertificadoNetEx.deps.json
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\GeradorCertificadoNetEx.runtimeconfig.json
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\GeradorCertificadoNetEx.pdb
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\ClosedXML.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\DocumentFormat.OpenXml.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\ExcelNumberFormat.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\iTextSharp.LGPLv2.Core.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\Microsoft.Win32.SystemEvents.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\BouncyCastle.Crypto.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\System.Drawing.Common.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\System.IO.Packaging.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\erick.oliveira\Documents\IOBEducacao\Projetos\Nova pasta (2)\runtimes\win\lib\net6.0\System.Drawing.Common.dll

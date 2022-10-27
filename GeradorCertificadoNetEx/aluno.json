@@ -1,0 +1,5 @@
+[
+    {"Nome": "Fulano", "Cpf": "123456777", "Crc": "", "CursoNome": "Nome do Curso", "Codigo": "Codigo Curso", "Categorias": "Categorias", "Pontos": 10, "CargaHoraria": 10, "Nota": 10,  "Frequencia": 0.9, "DataConclusao": "DataConclusao"},
+    {"Nome": "Fulano", "Cpf": "123456777", "Crc": "", "CursoNome": "Nome do Curso", "Codigo": "Codigo Curso", "Categorias": "Categorias", "Pontos": 10, "CargaHoraria": 10, "Nota": 10,  "Frequencia": 0.9, "DataConclusao": "DataConclusao"}
+
+]
